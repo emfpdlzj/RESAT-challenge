@@ -1,1 +1,1 @@
-# RESAT-challenge
+# RESATchallenge
